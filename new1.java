@@ -6,7 +6,11 @@ public class EvenOdd {
 
         Scanner reader = new Scanner(System.in);
 
+<<<<<<< HEAD
         System.out.print("Enter a number: anything ");
+=======
+        System.out.print("Enter a number: but me ");
+>>>>>>> tester
         int num = reader.nextInt();
 
         if(num % 2 == 0)
