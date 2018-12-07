@@ -10,7 +10,7 @@ public class VowelConsonant {
             case 'i':
             case 'o':
             case 'u':
-                System.out.println(ch + " is let me see vowel");
+                System.out.println(ch + " is let me check and see vowel");
                 break;
             default:
                 System.out.println(ch + " is consonant");
